@@ -29,7 +29,7 @@
             # Optimized for deploying to https://<user>.github.io/<repo-name> URLs
             github-io = default // {
               check = false;
-              extraConfig.template.baseUrl = "/webpage/";
+              extraConfig.template.baseUrl = "maakinoh.de";
             };
           };
         };
